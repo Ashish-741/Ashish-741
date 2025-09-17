@@ -28,9 +28,9 @@ Domains: **Machine Learning · Fullstack Development · Automation**
 
 | Project | Description | Link |
 |---------|-------------|------|
-| **Attendance Project** | Simplifying attendance management with tech | [Repo]((https://github.com/Ashish-741/projects/tree/main/AttendenceProject)) |
-| **Scriptly Speech-to-Notes** | Convert speech into actionable notes | [Repo]((https://github.com/Ashish-741/Scriptly-speech-to-notes)) |
-| **E-commerce Platform** | Building scalable online shopping experiences | [Repo]((https://github.com/Ashish-741/projects/tree/main/e-commerce)) |
+| **Attendance Project** | Simplifying attendance management with tech | [Repo](https://github.com/Ashish-741/projects/tree/main/AttendenceProject) |
+| **Scriptly Speech-to-Notes** | Convert speech into actionable notes | [Repo](https://github.com/Ashish-741/Scriptly-speech-to-notes)|
+| **E-commerce Platform** | Building scalable online shopping experiences | [Repo](https://github.com/Ashish-741/projects/tree/main/e-commerce) |
 | **Daily Practice** | Coding every day, one step at a time | [Repo](https://github.com/Ashish-741/daily-practice) |
 
 ---
