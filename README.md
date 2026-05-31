@@ -28,6 +28,7 @@ Domains: **Machine Learning · Fullstack Development · Automation**
 
 | Project | Description | Link |
 |---------|-------------|------|
+| **Sentinelx** | AI-Based Phishing Detection & Threat Intelligence Platform | [Repo](https://github.com/Ashish-741/sentinelx) | 
 | **Attendance Project** | Simplifying attendance management with tech | [Repo](https://github.com/Ashish-741/projects/tree/main/AttendenceProject) |
 | **Scriptly Speech-to-Notes** | Convert speech into actionable notes | [Repo](https://github.com/Ashish-741/Scriptly-speech-to-notes)|
 | **E-commerce Platform** | Building scalable online shopping experiences | [Repo](https://github.com/Ashish-741/projects/tree/main/e-commerce) |
@@ -37,7 +38,7 @@ Domains: **Machine Learning · Fullstack Development · Automation**
 
 ## 📌 Current Focus  
 - 🚀 Mastering advanced DSA in Java  
-- 🌱 Building fullstack and ML projects  
+- 🌱 Building fullstack and AI/ML projects  
 - 📚 Exploring new frameworks & tech stacks  
 
 ---
