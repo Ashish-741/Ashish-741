@@ -1,72 +1,110 @@
-# Hi, I'm Ashish 👋  
-🎓 3rd-year Computer Science Student @ GLA University | 🧑‍💻 Aspiring Software Developer  
+<h1 align="center">Hi 👋, I'm Ashish Kumar Chahar</h1>
+<h3 align="center">B.Tech CSE Student | Java Developer | Competitive Programmer | ML Enthusiast</h3>
+
+<p align="center">
+  <a href="https://leetcode.com/u/ASHISH_CHAHAR/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode">
+  </a>
+  <a href="https://codeforces.com/profile/Ashishchahar">
+    <img src="https://img.shields.io/badge/Codeforces-1500+-blue?logo=codeforces">
+  </a>
+  <a href="https://www.linkedin.com/in/ashish-chahar-84a5992aa/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin">
+  </a>
+</p>
 
 ---
 
-## 🌟 About Me  
-I’m passionate about exploring the world of technology through hands-on projects and continuous learning. Whether it’s **machine learning**, **fullstack development**, or **automation in Python**, I love tackling new challenges and bringing ideas to life.
+## 👨‍💻 About Me
 
-> *Turning curiosity into code — one project at a time.*
+🎓 B.Tech Computer Science Student at GLA University, Mathura
 
----
+💻 Interested in Software Development, Machine Learning and Backend Development
 
-## 🛠️ Skills & Tools  
+🚀 Solved 500+ DSA problems across LeetCode and Codeforces
 
-![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+📈 Current Codeforces Rating: 1500+
 
-Domains: **Machine Learning · Fullstack Development · Automation**
+🌱 Currently learning Spring Boot and System Design
+
+🎯 Looking for Software Development Internships and Placement Opportunities
 
 ---
 
-## 🚀 Featured Projects  
+## 🛠 Tech Stack
 
-| Project | Description | Link |
-|---------|-------------|------|
-| **Sentinelx** | AI-Based Phishing Detection & Threat Intelligence Platform | [Repo](https://github.com/Ashish-741/sentinelx) | 
-| **Attendance Project** | Simplifying attendance management with tech | [Repo](https://github.com/Ashish-741/projects/tree/main/AttendenceProject) |
-| **Scriptly Speech-to-Notes** | Convert speech into actionable notes | [Repo](https://github.com/Ashish-741/Scriptly-speech-to-notes)|
-| **E-commerce Platform** | Building scalable online shopping experiences | [Repo](https://github.com/Ashish-741/projects/tree/main/e-commerce) |
-| **Daily Practice** | Coding every day, one step at a time | [Repo](https://github.com/Ashish-741/daily-practice) |
+### Languages
 
----
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## 📌 Current Focus  
-- 🚀 Mastering advanced DSA in Java  
-- 🌱 Building fullstack and AI/ML projects  
-- 📚 Exploring new frameworks & tech stacks  
+### Web Development
 
----
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-## 🎯 Fun Facts  
-- 🕵️‍♂️ I love cracking algorithm puzzles — it’s like solving mysteries  
-- ⚙️ Enjoy experimenting with new frameworks and tech stacks  
-- 🎥 Big fan of sci-fi movies and tech documentaries  
-- ✍️ Outside of tech, I enjoy sketching and exploring new cuisines  
+### Database & Tools
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 🔗 Connect With Me  
+## 🚀 Featured Projects
 
-[LinkedIn](https://www.linkedin.com/in/ashish-chahar-84a5992aa/) · 
-[LeetCode](https://leetcode.com/u/ASHISH_CHAHAR/) · 
-[Codeforces](https://codeforces.com/profile/Ashishchahar) · 
-[GitHub](https://github.com/Ashish-741) · 
-[HackerRank](https://www.hackerrank.com/profile/ashishchahar731)
+### 🛡 SentinelX
+AI-Based Phishing Detection & Threat Intelligence Platform
+
+### 🎙 Scriptly
+Speech-to-Notes application using Web Speech API
+
+### 🧠 Mental Health Detection
+Machine Learning based classification of social media posts
+
+### 👤 Face Recognition Attendance System
+Automated attendance system using OpenCV and Python
+
+### 🏠 House Price Prediction
+Machine Learning project using Scikit-Learn
 
 ---
 
-## 📊 GitHub Stats  
-## Contribution Snake
+## 📈 Coding Profiles
+
+- LeetCode: https://leetcode.com/u/ASHISH_CHAHAR/
+- Codeforces: https://codeforces.com/profile/Ashishchahar
+- HackerRank: https://www.hackerrank.com/profile/ashishchahar731
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashish-741&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ashish-741&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/Ashish-741/Ashish-741/output/github-contribution-grid-snake.svg)
-![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashish-741&show_icons=true&theme=tokyonight)
 
 ---
 
-💌 *I’m open to internships, collaborations, and interesting project ideas — feel free to reach out or open an issue on any repo!*  
+## 📫 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/ashish-chahar-84a5992aa/
+- GitHub: github.com/Ashish-741
+- Email: your-email-here
+
+---
+
+⭐ "Consistency beats intensity."
