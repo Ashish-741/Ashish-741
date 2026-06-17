@@ -103,7 +103,7 @@ Machine Learning project using Scikit-Learn
 
 - LinkedIn: www.linkedin.com/in/ashish-chahar-84a5992aa/
 - GitHub: github.com/Ashish-741
-- Email: your-email-here
+- Email: ashishchahar731@gmail.com 
 
 ---
 
