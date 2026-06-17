@@ -62,7 +62,9 @@ Domains: **Machine Learning · Fullstack Development · Automation**
 ---
 
 ## 📊 GitHub Stats  
+## Contribution Snake
 
+![Snake animation](https://raw.githubusercontent.com/Ashish-741/Ashish-741/output/github-contribution-grid-snake.svg)
 ![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashish-741&show_icons=true&theme=tokyonight)
 
 ---
